@@ -38,7 +38,7 @@ Home Page
 ![open1](https://user-images.githubusercontent.com/26670962/87881119-c87ccc00-ca14-11ea-997f-0e635699e35e.png)
 Open Position
 
-![openposition](https://user-images.githubusercontent.com/26670962/87881122-cd418000-ca14-11ea-9aac-b328f7d1339e.png)
+![Screenshot from 2020-08-14 09-17-27](https://user-images.githubusercontent.com/26670962/90211832-7494b580-de0f-11ea-9bce-7ef4d8a30c19.png)
 Pay Out
 
 
